@@ -4,7 +4,7 @@
 The objective of this HR Analytics Dashboard is to provide insights into employee performance, retention rates, and overall workforce efficiency. By analyzing various HR metrics, organizations can make informed decisions to enhance employee satisfaction and productivity.
 
 <!-- Embedded dashboard image (place `hr-dashboard.png` in the `images/` folder) -->
-![HR Dashboard](images/hr-dashboard.png)
+![HR Dashboard](images/hr_dashboard.png)
 
 ## Key Performance Indicators (KPIs)
 1. Employee Turnover Rate
